@@ -6,3 +6,5 @@
 - QGIS
 
 # Referenced Databases
+- Natural Earth [https://www.naturalearthdata.com/]
+- Kaggle [kaggle.com]
